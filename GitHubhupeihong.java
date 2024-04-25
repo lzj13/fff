@@ -1,4 +1,4 @@
-public class 第一种HelloWorld
+public class 
 
 {
     public static void main(String[] args)
